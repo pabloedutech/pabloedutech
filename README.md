@@ -1,4 +1,8 @@
-## Bem-vindo! Me chamo Pablo Cardoso.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#73719a&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73719a&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!;Meu+nome+é+Pablo+Cardoso;Sou+desenvolvedor+de+Softwares+:%29)](https://git.io/typing-svg)
+
+##
 
 - 🔭 Atualmente estou a procura de uma vaga de estágio ou desenvolvedor Jr.
 - 🌱 Estou aprendendo Python.
@@ -21,5 +25,9 @@
 <div> 
   <a href="https://www.linkedin.com/in/pablo-cardoso-65a5711a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pabloedutech}/count.svg" /></p> 
+<br>
 </div>

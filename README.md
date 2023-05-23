@@ -10,7 +10,12 @@
 
 ##
 
-### Competências
+## Competências
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,git,github&theme=dark)](https://skillicons.dev)
+
+
+
+<!-- ### Competências
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,16 +25,18 @@
   <img align="center" alt="Pablo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+</div> -->
   
   ##
   
-  ### Estudos Recentes
+  ## Estudos Recentes
+  
+  [![My Skills](https://skillicons.dev/icons?i=python,react,vite,tailwind&theme=dark)](https://skillicons.dev)
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+</div> -->
 
 ##
  

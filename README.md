@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=73719a&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!;Meu+nome+é+Pablo+Cardoso;Sou+desenvolvedor+de+Softwares+)](https://git.io/typing-svg)
 
-##
+<!-- ##
 
 - 🔭 Atualmente estou a procura de uma vaga de estágio ou desenvolvedor Jr.
 - 🌱 Estou aprendendo Python.
-- 💬 Contate-me no e-mail: pablo.cardoso@hotmail.com
+- 💬 Contate-me no e-mail: pablo.cardoso@hotmail.com -->
 
 ##
 
